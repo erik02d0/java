@@ -13,3 +13,5 @@ See "uppgift.pdf" for project specification. To run, do:
 You can now try various expressions, or use the examination test file:
 
 `file test.txt`
+
+(write `quit`to quit)
