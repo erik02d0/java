@@ -6,5 +6,6 @@ My implementation passed; the code remains unchanged since the examination, so, 
 
 See "trafiksimulering.pdf" for project specification. To run, do:
 
-$javac Simulation.java
-$java Simulation
+`$javac Simulation.java`
+
+`$java Simulation`
