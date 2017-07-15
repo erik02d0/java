@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}
+\contentsline {section}{\numberline {2}Command Line Interface}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}\texttt {new}}{4}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Overall Format}{4}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Name Format}{4}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Competence Format}{4}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}\texttt {load}}{5}{subsection.2.2}
+\contentsline {section}{\numberline {3}Graphical Interface}{5}{section.3}
+\contentsline {section}{\numberline {4}Solver}{5}{section.4}
