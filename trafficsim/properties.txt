@@ -1,5 +1,0 @@
-laneLength      : 10
-laneWSLength    :  8
-lightPeriod     : 14
-lightWestGreen  :  6
-lightSouthGreen :  4
